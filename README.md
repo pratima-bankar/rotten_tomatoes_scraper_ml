@@ -41,7 +41,7 @@ This project focuses on **predicting audience sentiment** (positive or negative)
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/movie-sentiment-prediction.git
-   cd movie-sentiment-prediction
+   cd rotten_tomatoes_scraper_ml
    ```
 
 ### **📌 Step 2: Run Web Scraping Notebook**
